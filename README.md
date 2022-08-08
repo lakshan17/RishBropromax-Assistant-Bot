@@ -27,7 +27,7 @@ You can create your own custom plugin useing this format or use any [pyrogram](h
 
 ```
 from Assistant import app
-from Assistant.ImRishmikaOS.commands import *
+from Assistant.Cmd.commands import *
 
 @app.on_message(command("test"))
 async def plug(_, message):
