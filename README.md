@@ -54,6 +54,23 @@ __HELP__ = """
 <a href="https://github.com/RishBropromax"><img src="https://img.shields.io/github/stars/RishBropromax/RishBropromax-Assistant-Bot?style=social"></a>
 <a href="https://github.com/RishBropromax"><img src="https://img.shields.io/github/forks/RishBropromax/RishBropromax-Assistant-Bot?style=social"></a>
 
+## Join Our Groups
+
+- [TeamSemmy](t.me/TeamSemmy)
+> guys Sorry Team Semmy Support group is Now Privete Group. I'll Create new Support Group For You.
+
+- [Emo Bot industry](t.me/Emo_Bot_Industry)
+> Join Our Emo Bot Industry
+
+- [Things Zone](t.me/ThingsZone)
+> Send You Thing
+
+- [SL Bot Zone](t.me/SlBotZone)
+> Join Our Bot Zone
+
+
+
+
 
 
 
