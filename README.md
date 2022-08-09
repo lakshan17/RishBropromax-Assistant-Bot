@@ -25,6 +25,8 @@
 # RishBroPromax Assistant Example Plugin Format Here : 
 You can create your own custom plugin useing this format or use any [pyrogram](http://pyrogram.org) method !
 
+>Please Make Your Plugin In [Here](https://github.com/RishBropromax/RishBropromax-Assistant-Bot/tree/main/Assistant/Cmd)
+
 ```
 from Assistant import app
 from Assistant.Cmd.commands import *
