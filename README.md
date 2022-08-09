@@ -20,7 +20,7 @@
 
 # heroku Devolopment
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RishBropromax/RishBropromax-Assistant-Bot) 
 
 # RishBroPromax Assistant Example Plugin Format Here : 
 You can create your own custom plugin useing this format or use any [pyrogram](http://pyrogram.org) method !
