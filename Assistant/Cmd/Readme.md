@@ -13,7 +13,7 @@ async def plug(_, message):
 I m Assistant Bot Of Rishmika Sandanu
 @ImRishmika_Bot   
     """
-    await RishBroproMax.edit_text(supun)
+    await RishBroproMax.edit_text(Rishmika)
 
 __MODULE__ = "test"
 __HELP__ = """  
