@@ -1,7 +1,7 @@
 import os
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, ForceReply
 
-START_IMG = "https://telegra.ph/file/e758fc65d2522df6c46c3.jpg"
+START_IMG = "https://telegra.ph/file/d340fbf28f412487c5750.jpg"
 
 START_TEXT = """
 Hello there 
@@ -18,16 +18,13 @@ START_BUTTON = InlineKeyboardMarkup(
                  InlineKeyboardButton("⭕️Subscribe⭕️", url='https://youtube.com/channel/UCTIprdrvIiMjFdFwJgnmTUg')
                 ],
                 [
-                  InlineKeyboardButton("◈━━━━━━━━━━━━━◈", callback_data="stats_callback"),
+                  InlineKeyboardButton("◈━━━━━ImRishmika━━━━━◈", callback_data="stats_callback"),
                 ],
                 [
                   InlineKeyboardButton("🆘 Help and commands 🆘", callback_data='helpmenu'),
                 ],
                 [
-                  InlineKeyboardButton("TeamSemmy", callback_data='t.me/TeamSemmy'),
-                ],
-                [
-                  InlineKeyboardButton("Emo Bot Industry", callback_data='t.me/Emo_Bot_Industry'),
+                  InlineKeyboardButton("Emo Bot Devolopers", callback_data='t.me/EmoBotDevolopers'),
                 ],
                 ]
 )
@@ -37,24 +34,24 @@ I have some fun and useful tools
 So you can get a help about them 🚀
 
 >> Devoloper :- @ImRishmika
->> Powerd By [TeamSemmy](t.me/TeamSemmy) | [Emo Bot Industry](t.me/Emo_Bot_Industry)
+>> Powerd By [Emo Network](t.me/EmoBotDevolopers)
 
 """
 
 HELP_BUTTON = InlineKeyboardMarkup(
                [
                 [
-                 InlineKeyboardButton("Logo Maker", callback_data='logomenu'),
+                 InlineKeyboardButton("🪄Logo Maker", callback_data='logomenu'),
                  InlineKeyboardButton("Quote", callback_data='quotemenu')
                 ],
                 [
-                  InlineKeyboardButton("Song Menu", callback_data='songmenu')
+                  InlineKeyboardButton("🎧Song Menu", callback_data='songmenu')
                 ],
                 [
                   InlineKeyboardButton("More Tools", callback_data='toolmenu')
                 ],
                 [
-                  InlineKeyboardButton("Repo", url='https://github.com/RishBropromax/RishBropromax-Assistant-Bot')
+                  InlineKeyboardButton("🧩Repo", url='https://github.com/RishBropromax/RishBropromax-Assistant-Bot')
                 ],
                 [
                   InlineKeyboardButton("🔙Back", callback_data='startmenu'),
@@ -133,10 +130,16 @@ SITHIJATD_TEXT = """ Hey☘️,\n you can find Rishmika Sandanu in these social 
 SITHIJATD_BUTTONS = InlineKeyboardMarkup(
               [
                 [
-                  InlineKeyboardButton('🔵 Telegram 🔵' , url='https://t.me/ImRishmika'),
+                  InlineKeyboardButton('Telegram' , url='https://t.me/ImRishmika'),
                 ],
                 [
-                  InlineKeyboardButton('⭕ Youtube ⭕' , url='https://www.youtube.com/channel/UCTIprdrvIiMjFdFwJgnmTUg'),
+                  InlineKeyboardButton('Youtube' , url='https://www.youtube.com/channel/UCTIprdrvIiMjFdFwJgnmTUg'),
+                ], 
+                [
+                  InlineKeyboardButton('TikTok' , url='https://www.tiktok.com/imrishmika'),
+                ], 
+                [
+                  InlineKeyboardButton('Instagram' , url='https://www.instagram.com/imrishmika/'),
                 ], 
               ]
 )
