@@ -1,5 +1,5 @@
 import requests
-from bot import bot
+from Assistant import Assistant
 from pyrogram import filters, idle
 from pyrogram.types import Message
 from pyrogram.types import (InlineQuery, InlineQueryResultArticle, InlineQueryResultPhoto, InputTextMessageContent,
@@ -135,5 +135,5 @@ async def postcallbacc(_, CallbackQuery):
 
 
 bot.start()
-LOGGER.info("Sithija's assistant is online")
+LOGGER.info("ImRishmika assistant Working Fine.")
 idle()
